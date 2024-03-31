@@ -28,7 +28,7 @@
         </div>
         <div class="input-group">
             <i class="fas fa-lock"></i>
-            <input type="password" id="password" placeholder="Password" required>
+            <input type="password" name="password" id="password" placeholder="Password" required>
             <label for="password">Password</label>
         </div>
        <input type="submit" class="btn" value="Sign Up" name="signUp">
@@ -56,7 +56,7 @@
           </div>
           <div class="input-group">
               <i class="fas fa-lock"></i>
-              <input type="password" id="password" placeholder="Password" required>
+              <input type="password" name="password" id="password" placeholder="Password" required>
               <label for="password">Password</label>
           </div>
           <p class="recover">
