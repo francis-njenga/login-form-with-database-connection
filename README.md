@@ -1,8 +1,3 @@
-# login-form-with-database-connection
-you can watch the full tutorial on my youtube channel 
-https://www.youtube.com/@francis_tech
-
-
 # Simple Registration and Login Form
 
 This repository contains a basic example of how to implement a registration and login form connected to a database. It serves as an introduction to form handling in a web application.
@@ -17,3 +12,8 @@ For production use or to ensure better security, it's highly recommended to inco
 
 For more details on using prepared statements and input validation, you can check out my video tutorial here:
 [Watch the video](https://youtu.be/mQhu19VmOPo)
+
+# Login Form with Database Connection
+You can watch the full tutorial on how to set up a login form with database connection on my YouTube channel:  
+[Francis Tech](https://www.youtube.com/@francis_tech)
+
